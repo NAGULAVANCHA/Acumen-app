@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+
+    <item
+        android:id="@+id/nav_REG"
+        android:icon="@drawable/ic_register_black_24dp"
+        android:title="Registration"/>
+    <item
+        android:id="@+id/nav_QR"
+        android:icon="@drawable/ic_scanner_black_24dp"
+        android:title="Scan the QR"/>
+
+</menu>
